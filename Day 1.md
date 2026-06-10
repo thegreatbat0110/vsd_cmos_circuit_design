@@ -26,9 +26,47 @@ A MOSFET is a single electronic component (a tiny voltage-controlled switch).
 CMOS is a circuit design technology that teams up two different types of MOSFETs (one to pull power up, and one to push power down) to do complex logic and run microprocessors with almost zero wasted energy.
 
 <img width="571" height="224" alt="image" src="https://github.com/user-attachments/assets/53c052a6-4ddd-4529-bc56-8990b768d4b9" />
+
 When we give +ve charge other sides =ve charge is repelled leaving negative charge.
 
-Thresold Voltage - 
+Upon increaing gate voltage  - depletion region width increases.
+
+Strong / surface inversion After a while teh a small portion p substaret will be converted to n type mterial
+
+After this there isi ono increase in depletion region width but increase in channel width
+
+Thresold Voltage - v at which strong ncersion occurs
+
+<img width="520" height="271" alt="image" src="https://github.com/user-attachments/assets/e781ba37-523a-4a9c-acb1-0f51a801a1c3" />
+
+Body terminal  -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
