@@ -81,11 +81,15 @@ W = __ L = ___ dimensions
 <img width="538" height="172" alt="image" src="https://github.com/user-attachments/assets/217e1c1e-6818-4fb7-bb3b-582b2a5a1c42" />
 
 Technology File :-
+ Model parameters.
 
+ <img width="287" height="207" alt="image" src="https://github.com/user-attachments/assets/345ffb00-f247-4d40-bb83-62d071a388f3" />
 
+<img width="296" height="52" alt="image" src="https://github.com/user-attachments/assets/d579064f-239a-4857-9eea-f95833d8a646" />
 
+Everythng packaged like this :- <img width="266" height="145" alt="image" src="https://github.com/user-attachments/assets/3436b31a-c6d3-431d-b28f-0afd74714c70" />
 
-
+Simulations Commands :- 
 
 
 
