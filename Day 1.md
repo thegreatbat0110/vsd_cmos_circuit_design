@@ -3,6 +3,7 @@ D1SK1
 ------
 Introduction
 --------------
+
 Gates are made of PMOS n NMOS transistors.
 
 W/L ratio decides value of current which in turn descirbes waveform shape.
@@ -39,12 +40,11 @@ Thresold Voltage - v at which strong ncersion occurs
 
 <img width="520" height="271" alt="image" src="https://github.com/user-attachments/assets/e781ba37-523a-4a9c-acb1-0f51a801a1c3" />
 
-Body terminal  -
-
-
+Body terminal  shud be connected to negative most part (in nmos).
 
 -------------------------------------------------------
-D1SK2
+SPICE
+-----
 
 Spice simulations -> delays.
 
@@ -81,18 +81,52 @@ W = __ L = ___ dimensions
 <img width="538" height="172" alt="image" src="https://github.com/user-attachments/assets/217e1c1e-6818-4fb7-bb3b-582b2a5a1c42" />
 
 Technology File :-
- Model parameters.
 
- <img width="287" height="207" alt="image" src="https://github.com/user-attachments/assets/345ffb00-f247-4d40-bb83-62d071a388f3" />
+Model parameters.
+
+<img width="287" height="207" alt="image" src="https://github.com/user-attachments/assets/345ffb00-f247-4d40-bb83-62d071a388f3" />
 
 <img width="296" height="52" alt="image" src="https://github.com/user-attachments/assets/d579064f-239a-4857-9eea-f95833d8a646" />
 
-Everythng packaged like this :- <img width="266" height="145" alt="image" src="https://github.com/user-attachments/assets/3436b31a-c6d3-431d-b28f-0afd74714c70" />
+Everythng packaged like this :-
 
-Simulations Commands :- 
+<img width="266" height="145" alt="image" src="https://github.com/user-attachments/assets/3436b31a-c6d3-431d-b28f-0afd74714c70" />
 
+-----------------------------------------------------------------------------
+Labs
+------
 
+Installing -
+-----------
+<img width="435" height="345" alt="image" src="https://github.com/user-attachments/assets/a9477e2d-2d69-476f-bc15-a78a35ede3e3" />
 
+Thses contain model paramters - 
+
+<img width="212" height="113" alt="image" src="https://github.com/user-attachments/assets/77177510-1d10-4b11-8c85-70b508965860" />
+
+Contains certain W and L values preset by sky130.
+
+in models/parameters - 
+
+<img width="320" height="221" alt="image" src="https://github.com/user-attachments/assets/4a50dcca-7112-4c38-ac3f-52e6a7527a23" />
+
+Netlist , simulation commands etc.
+
+<img width="280" height="265" alt="image" src="https://github.com/user-attachments/assets/477a1986-2514-438f-a7b1-de4d7b661ddd" />
+
+<img width="270" height="304" alt="image" src="https://github.com/user-attachments/assets/33f226d9-c610-46e9-81bd-dba38b04fa88" />
+
+ngspice filename
+
+plot  vdd#branch / plot - vdd#branch
+
+<img width="950" height="388" alt="image" src="https://github.com/user-attachments/assets/f9778013-bcf1-4243-98eb-68a306d96e05" />
+
+plot - vdd#branch ->
+
+<img width="518" height="376" alt="image" src="https://github.com/user-attachments/assets/ed21930d-3e4e-44f9-af56-0ede36ca7624" />
+
+Left click to see values.
 
 
 
