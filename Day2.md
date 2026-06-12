@@ -19,6 +19,13 @@ When Vgs is 0 mos not turned on
 
 <img width="194" height="40" alt="image" src="https://github.com/user-attachments/assets/840d117f-6ba9-4ea0-97b9-bee11aea0e9c" />
 
+CMOS - Complimentary Metal Oxide Semicon
+
+<img width="550" height="335" alt="image" src="https://github.com/user-attachments/assets/f869f902-c92c-44c6-8882-d7904b66e2f7" />
+
+<img width="229" height="181" alt="image" src="https://github.com/user-attachments/assets/1877d303-4e04-4800-b574-a32995265afc" />
+
+
 ------------------------------------------------------------------------
 
 Labs:-
