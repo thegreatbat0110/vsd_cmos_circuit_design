@@ -43,8 +43,44 @@ Body terminal  -
 
 
 
+-------------------------------------------------------
+D1SK2
 
+Spice simulations -> delays.
 
+Feed models to spice engine.
+
+Some constants - spice model parameters (circled) given to SPICE. They need not be derived. Special file exists.
+
+<img width="212" height="231" alt="image" src="https://github.com/user-attachments/assets/033c3cb4-2079-4135-bd39-bbea4b40edca" />
+
+Spice model parameters + netlist -> SPICE Software -> graph
+
+<img width="577" height="226" alt="image" src="https://github.com/user-attachments/assets/fd3e7042-c9ed-441f-8a19-c1ba566dec3a" />
+
+Spice netlist :-
+
+<img width="250" height="124" alt="image" src="https://github.com/user-attachments/assets/f77b1880-c5a5-4796-b25b-16e22dc23c4c" />
+
+Now we write spice netlist for above circuit :-
+
+<img width="231" height="155" alt="image" src="https://github.com/user-attachments/assets/d8cf5e70-be93-4daf-acc2-ee82b4b60d40" />
+
+M - mosfet R - resistor
+
+Name - nodes - value
+
+DGSS - drain gate source substrate (ordered)
+
+if node = 0 just write 0 instead of name
+
+nmos - comes from technology file
+
+W = __ L = ___ dimensions
+
+<img width="538" height="172" alt="image" src="https://github.com/user-attachments/assets/217e1c1e-6818-4fb7-bb3b-582b2a5a1c42" />
+
+Technology File :-
 
 
 
