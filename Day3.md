@@ -1,4 +1,8 @@
-Spice desk - all the connectivity info , tap points etc.
+D3SK1
+-----
+
+Spice desk
+--------------
 - component connectivity
 - identify and name nodes
 - component values
@@ -43,6 +47,12 @@ Changing length of pmos -
 
 <img width="403" height="314" alt="image" src="https://github.com/user-attachments/assets/4c5a8f8f-1ae5-47bd-bad5-60e1bb54fe54" />
 
+Lab :-
+
+<img width="208" height="238" alt="image" src="https://github.com/user-attachments/assets/188800da-087e-4110-869a-b98b19541b0a" />
+
+ F or CmOS Inverter
+<img width="951" height="381" alt="image" src="https://github.com/user-attachments/assets/5fc20d5c-7268-47d9-87f9-218605ffa601" />
 
 
 
