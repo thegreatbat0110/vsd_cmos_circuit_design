@@ -55,7 +55,34 @@ Lab :-
 <img width="951" height="381" alt="image" src="https://github.com/user-attachments/assets/5fc20d5c-7268-47d9-87f9-218605ffa601" />
 
 
+CMOS Inverter netlist
 
+<img width="274" height="292" alt="image" src="https://github.com/user-attachments/assets/ec93d82d-4991-4d9d-b090-4103187b2b9e" />
+
+ .parameter temp =27 - Sets simulation temperature to 27°C (room temperature)
+
+ .lib "sky130_fd_pr/models/sky130.lib.spice" tt
+
+ sky130_fd_pr - SkyWater 130nm Foundry Primitive library
+ sky130.lib.spice - SPICE model file for transistors
+ tt - Typical - Typical process corner (nominal PMOS + NMOS) 
+ other eg - ff , ss ,fs,sf (fast/slow)
+ <img width="509" height="197" alt="image" src="https://github.com/user-attachments/assets/45683ec6-bcb8-45d2-8c62-eb9be60be661" />
+
+Vin in 0 PULSE(0V 1.8V 0 0.1ns 0.1ns 2ns 4ns)
+
+<img width="359" height="214" alt="image" src="https://github.com/user-attachments/assets/fb3998a0-4bf0-44d8-b4cd-e3c4442d5436" />
+
+.tran 1n 10n - Transient analysis — simulates for 10 nanoseconds with 1ns time steps
+You'll see ~2.5 complete clock cycles
+
+.control
+run
+.endc
+Runs the simulation automatically when NGSpice starts
+
+
+<img width="421" height="302" alt="image" src="https://github.com/user-attachments/assets/ea670e76-416c-4e62-9a8a-bbac9b1ab906" />
 
 
 
