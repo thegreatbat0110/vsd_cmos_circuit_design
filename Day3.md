@@ -84,9 +84,27 @@ Runs the simulation automatically when NGSpice starts
 
 <img width="421" height="302" alt="image" src="https://github.com/user-attachments/assets/ea670e76-416c-4e62-9a8a-bbac9b1ab906" />
 
+Dynamic characteristics(rise and fall delay) of cmos inverter circuit for wp/lp = wn/ln
+
+<img width="560" height="324" alt="image" src="https://github.com/user-attachments/assets/7dd2b96e-e752-4f4d-b1ac-55df250a3be6" />
+
+measure propagation delay (tpLH) — the time between:
+
+Input crossing VDD/2 = 0.9V (falling)
+Output crossing VDD/2 = 0.9V (rising
+
+<img width="318" height="137" alt="image" src="https://github.com/user-attachments/assets/6c34a2a5-b81d-41fe-96bf-59b542097542" />
+
+plot out vs time in
+
+<img width="697" height="383" alt="image" src="https://github.com/user-attachments/assets/d4374b9e-7118-4925-bcdd-acf67e127eae" />
+
+<img width="445" height="377" alt="image" src="https://github.com/user-attachments/assets/d898b4ab-35c5-4ffb-a28e-938dccf0c044" />
 
 
+<img width="648" height="371" alt="image" src="https://github.com/user-attachments/assets/5d5e2a1c-1d52-4192-aa0c-c53967763f1f" />
 
+latest reading for in
 
 
 
