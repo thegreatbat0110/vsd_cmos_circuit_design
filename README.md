@@ -12,7 +12,7 @@ Daywise Records
 
 [Day4](https://github.com/thegreatbat0110/vsd_cmos_circuit_design/blob/main/Day%204.md)
 
-[Day5](https://github.com/thegreatbat0110/vsd_cmos_circuit_design/blob/main/Day%204.md)
+[Day5](https://github.com/thegreatbat0110/vsd_cmos_circuit_design/blob/main/Day%204.md#day-5)
 
 
 
